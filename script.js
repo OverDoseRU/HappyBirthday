@@ -1,4 +1,4 @@
-const SECRET = "0215";
+const SECRET = "0215"; /*Фиксанись сам пж*/
 
 const LETTER = {
     title: "С Днём Рождения, Соня!",
